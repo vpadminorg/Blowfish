@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Blowfish</title>
+    <link>/Blowfish/tags/</link>
+    <description>Recent content in Tags on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>nuno@n9o.xyz (Blowfish)</managingEditor>
+    <webMaster>nuno@n9o.xyz (Blowfish)</webMaster>
+    <copyright>© 2024 Blowfish</copyright>
+    <lastBuildDate>Wed, 04 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="/Blowfish/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Blowfish</title>
+      <link>/Blowfish/tags/blowfish/</link>
+      <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>/Blowfish/tags/blowfish/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>/Blowfish/tags/hugo/</link>
+      <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>/Blowfish/tags/hugo/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tutorial</title>
+      <link>/Blowfish/tags/tutorial/</link>
+      <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>/Blowfish/tags/tutorial/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Authors</title>
+      <link>/Blowfish/tags/authors/</link>
+      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>/Blowfish/tags/authors/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sample</title>
+      <link>/Blowfish/tags/sample/</link>
+      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>/Blowfish/tags/sample/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Thumbnail</title>
+      <link>/Blowfish/tags/thumbnail/</link>
+      <pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>/Blowfish/tags/thumbnail/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Icons</title>
+      <link>/Blowfish/tags/icons/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>/Blowfish/tags/icons/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Shortcodes</title>
+      <link>/Blowfish/tags/shortcodes/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>/Blowfish/tags/shortcodes/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Css</title>
+      <link>/Blowfish/tags/css/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>/Blowfish/tags/css/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Html</title>
+      <link>/Blowfish/tags/html/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>/Blowfish/tags/html/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>/Blowfish/tags/markdown/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>/Blowfish/tags/markdown/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Gist</title>
+      <link>/Blowfish/tags/gist/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>/Blowfish/tags/gist/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Privacy</title>
+      <link>/Blowfish/tags/privacy/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>/Blowfish/tags/privacy/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Twitter</title>
+      <link>/Blowfish/tags/twitter/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>/Blowfish/tags/twitter/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Vimeo</title>
+      <link>/Blowfish/tags/vimeo/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>/Blowfish/tags/vimeo/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Youtube</title>
+      <link>/Blowfish/tags/youtube/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>/Blowfish/tags/youtube/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Latin</title>
+      <link>/Blowfish/tags/latin/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>/Blowfish/tags/latin/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Text</title>
+      <link>/Blowfish/tags/text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>/Blowfish/tags/text/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Katex</title>
+      <link>/Blowfish/tags/katex/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>/Blowfish/tags/katex/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Maths</title>
+      <link>/Blowfish/tags/maths/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>/Blowfish/tags/maths/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Chart</title>
+      <link>/Blowfish/tags/chart/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>/Blowfish/tags/chart/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Diagram</title>
+      <link>/Blowfish/tags/diagram/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>/Blowfish/tags/diagram/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Graph</title>
+      <link>/Blowfish/tags/graph/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>/Blowfish/tags/graph/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Mermaid</title>
+      <link>/Blowfish/tags/mermaid/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>/Blowfish/tags/mermaid/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Emoji</title>
+      <link>/Blowfish/tags/emoji/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>/Blowfish/tags/emoji/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Template</title>
+      <link>/Blowfish/tags/template/</link>
+      <pubDate>Tue, 22 Dec 1987 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>/Blowfish/tags/template/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Advanced</title>
+      <link>/Blowfish/tags/advanced/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>/Blowfish/tags/advanced/</guid>
+      <description>&lt;p&gt;This is the advanced tag. Just like other listing pages in Blowfish, you can add custom content to individual taxonomy terms and it will be displayed at the top of the term listing. &amp;#x1f680;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Analytics</title>
+      <link>/Blowfish/tags/analytics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>/Blowfish/tags/analytics/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Comments</title>
+      <link>/Blowfish/tags/comments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>/Blowfish/tags/comments/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Config</title>
+      <link>/Blowfish/tags/config/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>/Blowfish/tags/config/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Content</title>
+      <link>/Blowfish/tags/content/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>/Blowfish/tags/content/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Deployment</title>
+      <link>/Blowfish/tags/deployment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>/Blowfish/tags/deployment/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Docs</title>
+      <link>/Blowfish/tags/docs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>/Blowfish/tags/docs/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Example</title>
+      <link>/Blowfish/tags/example/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>/Blowfish/tags/example/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Favicons</title>
+      <link>/Blowfish/tags/favicons/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>/Blowfish/tags/favicons/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Firebase</title>
+      <link>/Blowfish/tags/firebase/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>/Blowfish/tags/firebase/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Front Matter</title>
+      <link>/Blowfish/tags/front-matter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>/Blowfish/tags/front-matter/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Github</title>
+      <link>/Blowfish/tags/github/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>/Blowfish/tags/github/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Homepage</title>
+      <link>/Blowfish/tags/homepage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>/Blowfish/tags/homepage/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Hosting</title>
+      <link>/Blowfish/tags/hosting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>/Blowfish/tags/hosting/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Icon</title>
+      <link>/Blowfish/tags/icon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>/Blowfish/tags/icon/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Installation</title>
+      <link>/Blowfish/tags/installation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>/Blowfish/tags/installation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Layouts</title>
+      <link>/Blowfish/tags/layouts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>/Blowfish/tags/layouts/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Lead</title>
+      <link>/Blowfish/tags/lead/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>/Blowfish/tags/lead/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Likes</title>
+      <link>/Blowfish/tags/likes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>/Blowfish/tags/likes/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Netlify</title>
+      <link>/Blowfish/tags/netlify/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>/Blowfish/tags/netlify/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>New</title>
+      <link>/Blowfish/tags/new/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>/Blowfish/tags/new/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Partials</title>
+      <link>/Blowfish/tags/partials/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>/Blowfish/tags/partials/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Render</title>
+      <link>/Blowfish/tags/render/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>/Blowfish/tags/render/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Series</title>
+      <link>/Blowfish/tags/series/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>/Blowfish/tags/series/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Users</title>
+      <link>/Blowfish/tags/users/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>/Blowfish/tags/users/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Views</title>
+      <link>/Blowfish/tags/views/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>/Blowfish/tags/views/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
